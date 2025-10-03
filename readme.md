@@ -49,5 +49,5 @@ Then I run burp suite to start hunting on the target with extentions running in 
 - Param Miner
 
 ### That's all for now
-## If you have any suggestions or quetions, feel free to contact me @ [Discord](https://discord.com/users/551522420054425610)
+## If you have any suggestions or questions, feel free to contact me @ [Discord](https://discord.com/users/551522420054425610)
 
